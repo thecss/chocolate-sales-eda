@@ -1,4 +1,4 @@
-# 🍫 Sales Performance Analysis
+# 🍫 Chocolate Sales EDA
 *What can two years of chocolate sales tell us about a business?*
 <p align="center">
 <img width="500" height="250" alt="rosemary-williams-MUbR4H4UhAM-unsplash" src="https://github.com/user-attachments/assets/fc3c42b5-5a05-498a-8778-2c5263243a68" />
@@ -31,6 +31,50 @@ This project uses an **order-level chocolate sales dataset** covering transactio
 <br>
  
 ## 📊 Analysis Approach
+The analysis was conducted using a structured analytical framework, progressing from data understanding and validation to business insight generation.
+
+<table>
+  <thead>
+    <tr>
+      <th>Analysis</th>
+      <th>Objective</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📋 <strong>Data Overview</strong></td>
+      <td>Understand the dataset, its structure, and key attributes.</td>
+    </tr>
+    <tr>
+      <td>🧹 <strong>Data Quality Assessment</strong></td>
+      <td>Assess data quality by identifying missing values, duplicates, inconsistencies, and outliers.</td>
+    </tr>
+    <tr>
+      <td>📊 <strong>Dimension Analysis</strong></td>
+      <td>Analyze performance across products, countries, channels, and salespeople.</td>
+    </tr>
+    <tr>
+      <td>📅 <strong>Date & Time Analysis</strong></td>
+      <td>Explore trends, seasonality, and changes over time.</td>
+    </tr>
+   <tr>
+      <td>📈 <strong>Metric Analysis</strong></td>
+      <td>Evaluate overall business performance using key metrics.</td>
+    </tr>
+    <tr>
+      <td>🏷️ <strong>Categorical Analysis</strong></td>
+      <td>Compare performance across different business categories.</td>
+    </tr>
+    <tr>
+      <td>🏆 <strong>Ranking Analysis</strong></td>
+      <td>Identify top and bottom performers across key dimensions.</td>
+    </tr>
+    <tr>
+      <td>💡 <strong>Business Insights</strong></td>
+      <td>Summarize key findings and actionable insights.</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 

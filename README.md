@@ -80,28 +80,40 @@ The analysis was conducted using a structured analytical framework, progressing 
 
 ## 🔍 Key Findings
 #### 📈 Overall Business Performance
+   - The dataset contains **200K sales orders**, generating **$102.6M in revenue** from **27.9M boxes shipped** over a two-year period (2022–2023).
+   - Average order value was **$512.86**, with an average discount of **13.08%**.
 
-- The dataset contains **200K sales orders** generating approximately **$102.6M in revenue** across the two-year period (January 2022 – December 2023).
-- A total of **27.9M chocolate boxes** were shipped, with an average order value of **$512.86**.
-- The business maintained a strong sales volume, averaging approximately **100K orders per year**.
-- Orders received an average discount of **13.08%**, while total marketing investment reached **$19.05M** during the analysis period.
+#### 📅 Sales Trends
+   - Order volume remained highly consistent across both years (~**99K orders annually**), indicating minimal seasonality.
+   - Monthly and quarterly order distribution was evenly spread, with **February** recording the lowest order activity, while **Q3 and Q4 consistently showed slightly higher demand than Q1 and Q2**.
+#### 🍫 Product Performance
+   - **70% Dark Bar** was the best-selling product, contributing **$26.36M (25.70%)** of total revenue.
+   - The top three products:**70% Dark Bar, Mixed Assortment Box, and Truffle Gift Box**—generated approximately **64% of total revenue**, highlighting a strong reliance on a small group of flagship products.
+   - **Hazelnut Milk Bar** was the lowest-performing product, contributing only **2.11%** of total revenue.
 
+#### 🌍 Market Performance
+   - **Australia** was the largest market (**41.37%** of revenue), followed by **Brazil (35.71%)**.
+   - Together, Australia and Brazil generated approximately **77% of total revenue**.
 
-#### 📅 Sales Trends & Seasonality
+#### 🛒 Channel Performance
+   - **Retail** was the leading sales channel, contributing **52.44%** of total revenue, followed by **Wholesale (36.54%)**.
+   - Retail and Wholesale together accounted for approximately **89% of total revenue**, while Online represented a smaller share (**11.01%**).
 
-- Sales activity remained stable across both years, with **99,790 orders in 2022** and **99,008 orders in 2023**, representing less than a 1% difference year-over-year.
-- Monthly order distribution remained consistent throughout the year, with each month contributing approximately **8–9% of annual orders**.
-- February recorded the lowest order contribution in both years (**7.85% in 2022 and 7.74% in 2023**), while Q3 and Q4 showed slightly stronger order activity.
-- Quarterly demand was evenly distributed, with each quarter contributing approximately **25% of annual orders**, indicating limited seasonal fluctuations in overall order volume.
+#### 👥 Salesperson Performance
+   * **Arjun Mehta** was the top-performing salesperson, generating **$34.70M (33.83%)** of total revenue.
+   * The **top five salespeople** contributed approximately **68% of total revenue**, indicating sales performance was concentrated among a few individuals.
+   * **Laura Hoffmann** was the lowest-performing salesperson, contributing **0.70%** of total revenue.
 
-
-
-  
 <br>
 
 ## ✅ Recommendations
-
-
+  - **Focus on your best-selling products.** Ensure top-performing products remain well-stocked and continue receiving strong marketing support.
+  - **Increase sales in smaller markets.** Explore ways to grow sales in Germany, India, and Japan through local promotions and market-specific campaigns.
+  - **Grow the online sales channel.** Invest in online marketing and improve the digital shopping experience to increase online sales.
+  - **Review low-performing products.** Assess whether lower-selling products need better promotion, pricing adjustments, or changes to the product lineup.
+  - **Learn from top-performing salespeople.** Share successful sales techniques and best practices with the rest of the sales team.
+  - **Support lower-performing salespeople.** Provide additional coaching and review sales territories to help improve performance.
+  - **Prepare for periods of higher demand.** Plan inventory and marketing activities in advance for quarters with slightly stronger sales.
 <br>
 <br>
 <br>

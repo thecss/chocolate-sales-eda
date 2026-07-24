@@ -80,6 +80,10 @@ The analysis was conducted using a structured analytical framework, progressing 
 
 ## 🔍 Key Findings
  * The dataset contains 12 chocolate products sold across 5 countries through 3 sales channels by 25 salespeople.
+ * The dataset covers two complete years of sales activity (January 2022 – December 2023) with approximately 99K orders each year.
+ * Monthly order distribution was consistent throughout the year, with each month contributing around 8–9% of annual orders.
+ * February recorded the lowest order volume across both years, while Q3 and Q4 showed slightly stronger demand.
+ * 
 <br>
 
 

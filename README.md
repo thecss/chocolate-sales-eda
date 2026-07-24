@@ -62,16 +62,12 @@ The analysis was conducted using a structured analytical framework, progressing 
       <td>Evaluate overall business performance using key metrics.</td>
     </tr>
     <tr>
-      <td>🏷️ <strong>Categorical Analysis</strong></td>
+      <td>🏷️ <strong>Magnitude Analysis</strong></td>
       <td>Compare performance across different business categories.</td>
     </tr>
     <tr>
       <td>🏆 <strong>Ranking Analysis</strong></td>
       <td>Identify top and bottom performers across key dimensions.</td>
-    </tr>
-    <tr>
-      <td>💡 <strong>Business Insights</strong></td>
-      <td>Summarize key findings and actionable insights.</td>
     </tr>
   </tbody>
 </table>

@@ -79,21 +79,31 @@ The analysis was conducted using a structured analytical framework, progressing 
 <br>
 
 ## 🔍 Key Findings
- * The dataset contains 12 chocolate products sold across 5 countries through 3 sales channels by 25 salespeople.
- * The dataset covers two complete years of sales activity (January 2022 – December 2023) with approximately 99K orders each year.
- * Monthly order distribution was consistent throughout the year, with each month contributing around 8–9% of annual orders.
- * February recorded the lowest order volume across both years, while Q3 and Q4 showed slightly stronger demand.
- * 
+#### 📈 Overall Business Performance
+
+- The dataset contains **200K sales orders** generating approximately **$102.6M in revenue** across the two-year period (January 2022 – December 2023).
+- A total of **27.9M chocolate boxes** were shipped, with an average order value of **$512.86**.
+- The business maintained a strong sales volume, averaging approximately **100K orders per year**.
+- Orders received an average discount of **13.08%**, while total marketing investment reached **$19.05M** during the analysis period.
+
+
+#### 📅 Sales Trends & Seasonality
+
+- Sales activity remained stable across both years, with **99,790 orders in 2022** and **99,008 orders in 2023**, representing less than a 1% difference year-over-year.
+- Monthly order distribution remained consistent throughout the year, with each month contributing approximately **8–9% of annual orders**.
+- February recorded the lowest order contribution in both years (**7.85% in 2022 and 7.74% in 2023**), while Q3 and Q4 showed slightly stronger order activity.
+- Quarterly demand was evenly distributed, with each quarter contributing approximately **25% of annual orders**, indicating limited seasonal fluctuations in overall order volume.
+
+
+
+  
 <br>
-
-
 
 ## ✅ Recommendations
 
 
 <br>
-
-
-
+<br>
+<br>
 Thanks for reading! 🍫
 If you found this project interesting, feel free to ⭐ the repository or explore my other projects.

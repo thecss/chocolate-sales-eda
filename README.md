@@ -79,7 +79,7 @@ The analysis was conducted using a structured analytical framework, progressing 
 <br>
 
 ## 🔍 Key Findings
-
+ * The dataset contains 12 chocolate products sold across 5 countries through 3 sales channels by 25 salespeople.
 <br>
 
 

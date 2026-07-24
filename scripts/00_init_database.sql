@@ -17,6 +17,9 @@ Steps Performed:
 Notes:
     - The dataset is imported using LOAD DATA LOCAL INFILE.
     - Update the file path to match your local machine before executing the script.
+	- The Order_Date column is imported using a user variable.
+    - Blank date values are converted to NULL using NULLIF()
+      to preserve missing data instead of storing invalid dates.
 */
 
 
@@ -50,7 +53,23 @@ INTO TABLE orders
 FIELDS TERMINATED BY ','
 OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\r\n'
-IGNORE 1 ROWS;
+IGNORE 1 ROWS(
+    Order_ID,
+    Product,
+    Country,
+    Channel,
+    Salesperson,
+    @Order_Date,
+    Discount_Pct,
+    Price_per_Box,
+    Marketing_Spend,
+    Boxes_Shipped,
+    Amount
+)
+SET Order_Date =
+    IF(@Order_Date = '',
+       NULL,
+       STR_TO_DATE(@Order_Date, '%Y-%m-%d'));
 
 
 -- Verify that the data has been imported successfully.
